@@ -31,5 +31,7 @@ This project was forked from [B2MSolutions connect-cassandra](https://github.com
 
 ## Contributors
  Pair programmed by [Roy Lines](http://roylines.co.uk) and [James Bloomer](https://github.com/jamesbloomer).
+
  Contributions from [David Wetterau](https://github.com/dwetterau).
+
  Adapted by [Octavio Fernandes](http://github.com/octaviofernands).
