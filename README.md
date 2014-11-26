@@ -5,6 +5,7 @@ This project was forked from [B2MSolutions connect-cassandra](https://github.com
 
 ## Improvements
  Handle connection with Datastax [nodejs-driver](https://github.com/datastax/nodejs-driver).
+
  Updated for using with express new version.
 
 ## Installation
