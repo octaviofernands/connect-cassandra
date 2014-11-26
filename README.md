@@ -1,11 +1,11 @@
 # connect-cassandra
 A Cassandra session store for connect.
 
-This project was forked from [https://github.com/B2MSolutions/connect-cassandra].
+This project was forked from [B2MSolutions connect-cassandra](https://github.com/B2MSolutions/connect-cassandra).
 
 ## Improvements
-	Handle connection with Datastax [nodejs-driver][https://github.com/datastax/nodejs-driver].
-	Updated for using with express new version.
+Handle connection with Datastax [nodejs-driver](https://github.com/datastax/nodejs-driver).
+Updated for using with express new version.
 
 ## Installation
 	npm install connect-cassandra
